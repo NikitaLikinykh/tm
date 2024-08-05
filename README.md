@@ -1,4 +1,3 @@
-# tz2
 
 ## Project setup
 ```
